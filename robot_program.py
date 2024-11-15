@@ -1,4 +1,4 @@
-# robot_movement.py
+# robot_program.py
 
 class Terrain:
     def __init__(self, rows, cols):
